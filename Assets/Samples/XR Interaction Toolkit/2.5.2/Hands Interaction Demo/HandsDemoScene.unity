@@ -152,6 +152,11 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 868f107daf3fc97428e08f6e5b30dd74, type: 2}
     - target: {fileID: 728864242803681389, guid: aec71f91a8da27d418aa44bd0c543f9b,
         type: 3}
+      propertyPath: m_StartingHoverFilters.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 728864242803681389, guid: aec71f91a8da27d418aa44bd0c543f9b,
+        type: 3}
       propertyPath: m_InteractableCantHoverMeshMaterial
       value: 
       objectReference: {fileID: 2100000, guid: 54f7c59213ac02b4d9f00104348dbac3, type: 2}

@@ -6,7 +6,7 @@ public class spawny : MonoBehaviour
 {
     public GameObject spawnThis;
 
-   public void Spawny()
+   public void SpawnyApples()
     {
         for (var i = 0; i < 10; i++)
                 {

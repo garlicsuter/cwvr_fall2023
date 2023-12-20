@@ -2619,7 +2619,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1268775729}
-        m_TargetAssemblyTypeName: TrailCombineAndSpawn2, Assembly-CSharp
+        m_TargetAssemblyTypeName: TrailCombineAndSpawn3, Assembly-CSharp
         m_MethodName: CombineTrailsAndSpawn
         m_Mode: 1
         m_Arguments:
@@ -4375,12 +4375,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1268775727}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dd62fe42884d1cd47bbeab9a9d20e547, type: 3}
+  m_Script: {fileID: 11500000, guid: 0086d5cbe3a4a49489e63cf25dc7e0c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   trailPrefab: {fileID: 7631491353434788432, guid: 594d006ac61ca0d4db9a3c2f2cba7eb8,
     type: 3}
   spawnPoint: {fileID: 1268775728}
+  originalPoint: {fileID: 439447645}
+  sphereScaleFactor: 0.2
 --- !u!1 &1273340940
 GameObject:
   m_ObjectHideFlags: 0
